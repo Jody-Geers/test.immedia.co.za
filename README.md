@@ -38,6 +38,8 @@
   There is a server config file at : /api/config/config.php for MySQL database connection.
 
   Everything from then on should be smooth sailing.
+
+  ![alt text](https://github.com/Jody-Geers/test.immedia.co.za/bin/screenie.png)
   
 ## License
 
