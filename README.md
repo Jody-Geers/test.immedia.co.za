@@ -14,14 +14,18 @@
     Custom architecture but heavily influced by current tech trend and node.js community.
 
   The server is a REST influenced data service PHP application.
+  
     No frame works, vanilla PHP.
     Custom architecture but heavily influced by current tech trend and Java Spring community.
 
 
-Currently @ http://localhost:8888/ left UI Widget pane allows user to search for location.
-Location is stored to database on server.
-Middle UI Widget pane lists previous and current search.
-Selection of location list item in middle UI Widget pane opens relating images in right UI Widget pane. 
+  Currently @ http://localhost:8888/ left UI Widget pane allows user to search for location.
+  
+  Location is stored to database on server.
+  
+  Middle UI Widget pane lists previous and current search.
+  
+  Selection of location list item in middle UI Widget pane opens relating images in right UI Widget pane. 
 
 ## Installation
 
