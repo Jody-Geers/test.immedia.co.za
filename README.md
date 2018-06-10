@@ -39,7 +39,7 @@
 
   Everything from then on should be smooth sailing.
 
-  ![alt text](https://github.com/Jody-Geers/test.immedia.co.za/bin/screenie.png)
+  ![alt text](/bin/screenie.png)
   
 ## License
 
