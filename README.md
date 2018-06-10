@@ -25,7 +25,7 @@
   
   Middle UI Widget pane lists previous and current search.
   
-  Selection of location list item in middle UI Widget pane opens relating images in right UI Widget pane. 
+  Selection of location list item in middle UI Widget pane opens relating images in right UI Widget pane...
 
 ## Installation
 
