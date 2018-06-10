@@ -1,4 +1,4 @@
-# test-inmedia.co.za
+# test-immedia.co.za
 
   PHP Web Dev Test.
 
