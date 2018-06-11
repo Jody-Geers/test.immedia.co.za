@@ -6,14 +6,14 @@
 
   Admittedly I ran out of time for the Foursquare and Flickr API integrations. . .  :(
 
-  The client is a single page javascript application.
+  The client is a single page javascript application. /app/
 
     Jquery for DOM manipulation & AJAX ( https://jquery.com/ )
     Browserify for application builds ( http://browserify.org/ )
     No other frame works, pretty vanilla javascript and light weight.
     Custom architecture but heavily influced by current tech trend and node.js community.
 
-  The server is a REST influenced data service PHP application.
+  The server is a REST influenced data service PHP application. /api/
   
     No frame works, vanilla PHP.
     Custom architecture but heavily influced by current tech trend and Java Spring community.
